@@ -64,7 +64,7 @@ Participants reporting higher levels of these psychological factors tended to ha
 
 Digital wellbeing status was associated with differences in digital behavior.
 
-Participants with different digital wellbeing statuses showed variations in:
+Participants at risk showed higher values in:
 
 - Daily social media usage
 - Screen time before sleep
@@ -92,7 +92,7 @@ However, this finding should be interpreted with caution, as only 31 participant
 
 ---
 
-## Overall Conclusion
+## Further Scope
 
 Apart from the associations between psychological variables and mental health risk, and the relationship between digital wellbeing and digital usage behaviors, no substantial relationships were observed among the remaining variables.
 
